@@ -1,0 +1,11 @@
+
+body {
+   background: darkgreen;
+}
+h1, h2, form{
+    color:#fff;
+}
+img.img-header {
+    width: 25%;
+    height: 25%;
+}
